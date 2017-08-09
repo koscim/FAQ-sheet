@@ -1,0 +1,21 @@
+/* YOUR STYLING HERE */
+
+#app {
+  background-color: $light-blue;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: $grey;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  border-bottom: thick solid $grey;
+}
+
+h1 {
+  text-align: center;
+  color: $blue;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
